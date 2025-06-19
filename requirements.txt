@@ -1,0 +1,4 @@
+denoiser
+soundfile
+git+https://github.com/ludlows/python-pesq#egg=pesq
+six
